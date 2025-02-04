@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "files.exclude": {
+            "logseq/*": true
+        },
+        "java.compile.nullAnalysis.mode": "automatic"
+    },
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
+}
